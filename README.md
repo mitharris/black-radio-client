@@ -12,6 +12,7 @@ Client code for the Black Radio project, a fork of the Jasper voice computing pl
 4.
 
 **Raspberry Pi 3 Model B Motherboard**
+
 | Feature                   | Technical Details        |
 |---------------------------|--------------------------|
 | RAM                       | 1024 MB                  |
